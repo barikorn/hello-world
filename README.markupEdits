@@ -42,3 +42,42 @@ http://github.com - automatic!
 
 Backslash Escapes
 \*literal asterisks\*
+`this is a backtick`
+(hello in parantheses)
++I am here+
+-Now I'm not-
+
+Username @mentions
+@
+
+Issue References
+#1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
+
+Emoji
+GitHub supports emoji!
+:laughing: :smirk: :unamused: :smiling_imp: :alien:
+
+Fenced Code Blocks
+```javascript
+function test() {
+console.log("hey look ma’, I made it");
+}
+```
+function test() {
+console.log("hey look ma’, I made it");
+}
+
+Task Lists
+- [x] I completed this
+- [ ] I'm working on this
+- [x] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+
+Tables
+First Header | Second Header
+------------ | --------------
+Content 1 here | Content 2 here
+Clueless movie | Mean Girls
